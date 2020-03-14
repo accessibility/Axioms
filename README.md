@@ -4,9 +4,9 @@ Accessibility Axioms (A11yAxioms): Basic truths about building an inclusive digi
 Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://twitter.com/hashtag/A11yAxiom).
 
 ## Standards
-- Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended. Cognitive & learning disabilities are often neglected because it is hard to express as a universally understood success criterion. 
-- WCAG is nothing more than a good start to the larger goal of an inclusive society. Achieving WCAG 2.x AA compliance is good, but insufficient on its own. 
-- WCAG isn’t perfect. It is only as good as the people and the community behind it. Creating community guidelines is hard, but a necessary pre-condition to building a common solution. 
+- **Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended.** Cognitive & learning disabilities are often neglected because it is hard to express as a universally understood success criterion. 
+- **WCAG is nothing more than a good start to the larger goal of an inclusive society.** Achieving WCAG 2.x AA compliance is good, but insufficient on its own. 
+- **WCAG isn’t perfect.** It is only as good as the people and the community behind it. Creating community guidelines is hard, but a necessary pre-condition to building a common solution. 
 
 ## Software
 - Administrative pages are more likely to have accessibility problems than traditional public facing pages.
