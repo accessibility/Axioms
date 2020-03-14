@@ -1,5 +1,5 @@
 # A11yAxioms
-Accessibility Axioms (A11yAxioms): Basic truths about building an inclusive digital world. An [axiom](https://en.wikipedia.org/wiki/Axiom) is a "statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments." In this case, the further reasoning is to help us build a common understanding of how to approach buidling a digitally inclusive future. 
+Accessibility Axioms (A11yAxioms): Basic truths about building an inclusive digital world. An [axiom](https://en.wikipedia.org/wiki/Axiom) is a "statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments." In this case, the further reasoning is to help us build a common understanding of how to approach buidling a digitally inclusive future. The axioms here should simplify our understanding of the bigger process. 
 
 ## Standards
 - Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended. Cognitive & learning disabilities are often neglected because it is hard to express as a universally understood success criterion. 
