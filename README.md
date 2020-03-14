@@ -29,3 +29,4 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - Designing for the starburst of humanity, will produce better products and services than first working within the Pareto Principle and then trying to apply WCAG. Design for the fringe.
 - Any process involved in creating digital content can impact its accessibility. After it is created, lots of different software is required to deliver it to the end user. Software is rarely built perfectly to a common open standards.
 - Without an inclusion lens, digital solutions are brittle. Permanent disabilities hit 15% of the population, but temporary & situational disabilities effect us all. 
+- Digital accessibility involves technology, but should not be technocratic. Empathy is required to make good judgements as this is ultimately a human issue. Objectivity is needed to guide judgement, and thus we need to invest in common standards. 
