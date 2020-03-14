@@ -33,8 +33,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - Involving people with lived experience with disability early in the development process will produce more accessible results.
 - Accessibility is a team sport. In order to effectively address accessibility issues, we need experience outside of project teams. Collaborative approaches will achieve the best results in the long run.
 - There will always be users who find barriers to their use of the technology. Having an open feedback system will help to identify new accessibility issues. 
-- The more people that champion and apply a lens around accessibility and inclusion the more that organization can scale their efforts, capacity and improve outcomes for people who use their products and services.
-- A champion network within an organization will be more effective than an individual expert.
+- Individuals can only do so much in isolation, the more people that champion and apply a lens around accessibility and inclusion within an organization, the more they can scale efforts, capacity and improve outcomes for people who use their products and services.
 - Digital accessibility involves technology, but should not be technocratic. Empathy is required to make good judgements as this is ultimately a human issue. Objectivity is needed to guide judgement, and thus we need to invest in common standards. 
 - There’s no such thing as an average user and the need for personalization is inevitable. There is no “one-size-fits-all” digital tool that will meet everyone’s needs. Dark Mode is just the beginning.
 - Digital is one service channel. When planning inclusive services ensure that all channels & touchpoints apply an inclusive lens.
