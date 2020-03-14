@@ -31,6 +31,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 
 ## Achievable Goals
 - **Digital tools will never be 100% accessible, just like it will never be 100% secure.**
+- **There is always more that can be done to be more inclusive,** how inclusive you need to be will depend on the users and your budget.
 
 ## Process (People)
 - **Involving people with lived experience with disability early in the development process will produce more accessible results.**
