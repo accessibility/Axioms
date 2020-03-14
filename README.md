@@ -17,7 +17,8 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - Software on the internet needs to be seen as a living system. Need to move from leveraging periodic checklists to building an ongoing journey.
 - Automated testing is always going to be the most efficient way to find 100% of ~30% of accessibility issues. 
 - Keep it simple. On the web, semantic HTML is the best. Take the time to understand semantics. ARIA can extend HTML, but if not used properly it can make it worse. Only use ARIA if you can’t do it with HTML.
-- Keyboard issues hold about 40% of accessibility failures, and most automated tools do not evaluate for them. Testing for this is simple, and is often overlooked. 
+- Keyboard issues hold about 40% of accessibility failures, and most automated tools do not evaluate for them. Testing for this is relatively easy, but is often overlooked. 
+- Uncomplicated interfaces are easier to make accessible and will be simpler to maintain. 
 
 ## Authoring
 - Authoring experiences can shape the accessibility of their work. The Authoring Tool Accessibility Guidelines (ATAG) 2.0, Part B is a strong example of this.
