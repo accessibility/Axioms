@@ -1,0 +1,1 @@
+- Include people with disabilities in persona's. 1/6 should have have a permanent disability. The rest should also include some permanent or temporary disability. 
