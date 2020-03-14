@@ -1,5 +1,5 @@
-# Axioms
-Accessibility axioms: Basic truths about building an inclusive digital world.
+# A11yAxioms
+Accessibility Axioms (A11yAxioms): Basic truths about building an inclusive digital world. An [axiom](https://en.wikipedia.org/wiki/Axiom) is a "statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments." In this case, the further reasoning is to help us build a common understanding of how to approach buidling a digitally inclusive future. 
 
 - Administrative pages are more likely to have accessibility problems than traditional public facing pages.
 It is easier to improve the accessibility in a system with reasonable accessibility than to start with one with unknown number of accessibility issues. 
