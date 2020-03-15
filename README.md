@@ -32,7 +32,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **Older software is more likely to have accessibility problems.** Although not universally true, accessibility awareness and tools are improving, and older tools are likely to have more accessibility problems. 
 - **Constant vigilance is required.  Just because an interface did meet meet WCAG 2.0 AA, doesn't mean that it will six months later.** Technology, W3C standards and our use of it is constantly changing. 
 
-#Accessibility testing
+## Accessibility testing
 - **Automated testing is always going to be the most efficient way to find 100% of ~30% of accessibility issues.** 
 - **Keyboard issues hold about 40% of accessibility failures**, and most automated tools do not evaluate for them. Testing for this is relatively easy, but is often overlooked. 
 
