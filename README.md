@@ -39,6 +39,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 ## Accessibility testing
 - **Automated testing is always going to be the most efficient way to find 100% of ~30% of accessibility issues.** 
 - **Keyboard issues hold about 40% of accessibility failures**, and most automated tools do not evaluate for them. Testing for this is relatively easy, but is often overlooked. 
+- **Involving people with lived experience with disability early in the development process will produce more accessible results.**
 
 ## Authoring
 - **Authoring experiences can shape the accessibility of their work.** The Authoring Tool Accessibility Guidelines (ATAG) 2.0, Part B is a strong example of this.
@@ -50,7 +51,6 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **There is always more that can be done to be more inclusive,** how inclusive you need to be will depend on the users and your budget. Be focused on making your site more accessible today than it was yesterday. 
 
 ## Process (People)
-- **Involving people with lived experience with disability early in the development process will produce more accessible results.**
 - **Accessibility is a team sport.** In order to effectively address accessibility issues, we need experience outside of project teams. Collaborative approaches will achieve the best results in the long run.
 - **There will always be users who find barriers to their use of the technology.** Having an open feedback system will help to identify new accessibility issues. 
 - **Individuals can only do so much in isolation.** The more people that champion and apply a lens around accessibility and inclusion within an organization, the more they can scale efforts, capacity and improve outcomes for people who use their products and services.
