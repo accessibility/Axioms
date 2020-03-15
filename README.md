@@ -46,6 +46,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **Authoring experiences can shape the accessibility of their work.** The Authoring Tool Accessibility Guidelines (ATAG) 2.0, Part B is a strong example of this.
 - **Accessibility will always be easier if a project starts with good, meaningfully structured content written in plain language.** Do the hard work of making it easy to understand. 
 - **Any process involved in creating digital content can impact its accessibility.** After it is created, lots of different software is required to deliver it to the end user. Software is rarely built perfectly to a common open standards.
+- **If accessibility is the easiest, default option, more things will be accessible.** Lets make sure to focus on shifting the defaults. 
 
 ## Achievable Goals
 - **Digital tools will never be 100% accessible, just like it will never be 100% secure.**
