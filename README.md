@@ -22,6 +22,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 It is easier to improve the accessibility in a system with reasonable accessibility than to start with one with unknown number of accessibility issues. 
 - **All CMS’s are broken into those elements which an editor can control, and those that are managed by the system which developers build**. This is similar to how a photo sits in a frame. 
 - **Critical mass matters** the more people who use the same system, the more likely that your organization will be able to benefit from someone else's work. Communities that share and encourage openness are best for finding solutions. 
+- **There is no overlay that can fix accessibility issues.** You can't add meaningful semantics and document structure after the fact. These JavaScript overlays can fix some some issues, for some disabilities, but WCAG requirements are broader than this. 
 
 ## Software development
 - **Building with patterns that have previously been tested for accessibility will reduce costs for implementing WCAG.** 
