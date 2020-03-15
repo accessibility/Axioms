@@ -58,3 +58,4 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **Digital is one service channel.** When planning inclusive services ensure that all channels & touchpoints apply an inclusive lens.
 - **Designing systems that encompass the diversity "at the edges" will respond better to change and cost less in the long run.** Accommodation and accessibility gate-keeping are expensive, brittle and degrade quickly. 
 - **Most developers/designers underestimate the complexity of digital accessibility.** Many teams assume that they already know how to make pages accessible. 
+- **Digital accessibility requires an ongoing committment to education.** There is always new material being created to help practitioners learn how to be more inclusive. 
