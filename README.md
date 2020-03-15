@@ -23,6 +23,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
 - **Designing systems that encompass the diversity "at the edges" will respond better to change and cost less in the long run.** Accommodation and accessibility gate-keeping are expensive, brittle and degrade quickly. 
 - **Critical mass matters** the more people who use the same system, the more likely that your organization will be able to benefit from someone else's work. Communities that share and encourage openness are best for finding solutions. 
+- **Constant vigilance is reaured.  Just because an interface did meet meet WCAG 2.0 AA, doesn't mean that it will six months later.** Technology, W3C standards and our use of it is constantly changing. 
 
 ## Authoring
 - **Authoring experiences can shape the accessibility of their work.** The Authoring Tool Accessibility Guidelines (ATAG) 2.0, Part B is a strong example of this.
