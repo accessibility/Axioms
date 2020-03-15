@@ -57,4 +57,4 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **There’s no such thing as an average user and the need for personalization is inevitable.** There is no “one-size-fits-all” digital tool that will meet everyone’s needs. Dark Mode is just the beginning.
 - **Digital is one service channel.** When planning inclusive services ensure that all channels & touchpoints apply an inclusive lens.
 - **Designing systems that encompass the diversity "at the edges" will respond better to change and cost less in the long run.** Accommodation and accessibility gate-keeping are expensive, brittle and degrade quickly. 
-- **Most people underestimate the complexity of digital accessibility.** Many teams assume that they already know how to make pages accessible. 
+- **Most developers/designers underestimate the complexity of digital accessibility.** Many teams assume that they already know how to make pages accessible. 
