@@ -33,6 +33,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **It is more expensive to make a legacy tool accessible than it is to rebuild it on a more accessible platform.**
 - **Older software is more likely to have accessibility problems.** Although not universally true, accessibility awareness and tools are improving, and older tools are likely to have more accessibility problems. 
 - **Constant vigilance is required.  Just because an interface did meet meet WCAG 2.0 AA, doesn't mean that it will six months later.** Technology, W3C standards and our use of it is constantly changing. 
+- **Given the number of potential patterns for a given accessibility solution, the chance of a team selecting a best practice in isolation is low.** Only by comparing solutions will the advantages/disadvantages of any given solutions be understood.
 
 ## Accessibility testing
 - **Automated testing is always going to be the most efficient way to find 100% of ~30% of accessibility issues.** 
