@@ -13,7 +13,9 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities hit 15% of the population, but temporary & situational disabilities effect us all. 
 - **Designing for the starburst of humanity, will produce better products and services than first working within the Pareto Principle and then trying to apply WCAG.** Design for the fringe.
 - **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
-- **Keep it simple.** On the web, semantic HTML is the best. Take the time to understand semantics. ARIA can extend HTML, but if not used properly it can make it worse. Only use ARIA if you can’t do it with HTML.
+- **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
+- **Often WAI-ARIA isn't properly applied.** WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
+- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to evaluate if is accessible. 
 
 ## Software
 - **Administrative pages are more likely to have accessibility problems than traditional public facing pages.**
