@@ -1,7 +1,7 @@
 # A11yAxioms
 Accessibility Axioms (A11yAxioms): Basic truths about building an inclusive digital world. An [axiom](https://en.wikipedia.org/wiki/Axiom) is a "statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments." In this case, the further reasoning is to help us build a common understanding of how to approach buidling a digitally inclusive future. The axioms here should simplify our understanding of the bigger process. 
 
-Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://twitter.com/hashtag/A11yAxiom).
+Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://twitter.com/hashtag/A11yAxiom). Lots of people have contributed in that thread and in other social media. Thanks! 
 
 ## Standards
 - **Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended.** Cognitive & learning disabilities are often neglected because it is hard to express as a universally understood success criterion. 
@@ -63,3 +63,5 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **Most developers/designers underestimate the complexity of digital accessibility.** Many teams assume that they already know how to make pages accessible. 
 - **Digital accessibility requires an ongoing commitment to education.** There is always new material being created to help practitioners learn how to be more inclusive. 
 - **There is no checklist that you can follow that will make sure your digital tools inclusive.** Checklists can be useful as reminders, but too often in accessibility they become limiting in how people approach a complex problem.
+
+
