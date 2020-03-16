@@ -55,7 +55,7 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **There is always more that can be done to be more inclusive,** how inclusive you need to be will depend on the users and your budget. Be focused on making your site more accessible today than it was yesterday. 
 
 ## Process (People)
-- **Accessibility is a team sport.** In order to effectively address accessibility issues, we need experience outside of project teams. Collaborative approaches will achieve the best results in the long run.
+- **Good accessibility is a community effort.** In order to effectively address accessibility issues, we need experience outside of project teams. Collaborative approaches will achieve the best results in the long run.
 - **There will always be users who find barriers to their use of the technology.** Having an open feedback system will help to identify new accessibility issues. 
 - **Individuals can only do so much in isolation.** The more people that champion and apply a lens around accessibility and inclusion within an organization, the more they can scale efforts, capacity and improve outcomes for people who use their products and services.
 - **Digital accessibility involves technology, but should not be technocratic.** Empathy is required to make good judgements as this is ultimately a human issue. Objectivity is needed to guide judgement, and thus we need to invest in common standards. 
