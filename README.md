@@ -7,6 +7,8 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended.** Cognitive & learning disabilities are often neglected because it is hard to express as a universally understood success criterion. 
 - **WCAG is nothing more than a good start to the larger goal of an inclusive society.** Achieving WCAG 2.x AA compliance is good, but insufficient on its own. 
 - **WCAG isn’t perfect.** It is only as good as the people and the community behind it. Creating community guidelines is hard, but a necessary pre-condition to building a common solution. 
+- **If a site already complies with one accessibility standard (say WCAG 2.0 A) it will be easier to make it comply to a higher or newer standard (say WCAG 2.1 AA) than if it didn't already comply.**
+- **New WCAG 2.x guidelines build on the previous ones. A site meeting WCAG 2.1 AA will also meet WCAG 2.0 AA.
 
 ## Design
 - **User-centered design isn’t going to give you as inclusive a result as user-led design.** Design with - not for - people with disabilities. 
