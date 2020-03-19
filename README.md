@@ -12,7 +12,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 
 ## Design
 - **User-centered design isn’t going to give you as inclusive a result as user-led design.** Design with - not for - people with disabilities. 
-- **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities hit 15% of the population, but temporary & situational disabilities effect us all. 
+- **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities hit 15% of the population, but temporary & situational disabilities effect us all. Thinking through accessibility challenges early also helps reduce the long-term challenges of going back and remediating older implementations.
 - **Designing for the starburst of humanity, will produce better products and services than first working within the Pareto Principle and then trying to apply WCAG.** Design for the fringe.
 - **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
 - **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
