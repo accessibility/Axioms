@@ -62,7 +62,8 @@ It is easier to improve the accessibility in a system with reasonable accessibil
 - **There’s no such thing as an average user and the need for personalization is inevitable.** There is no “one-size-fits-all” digital tool that will meet everyone’s needs. Dark Mode is just the beginning.
 - **Digital is one service channel.** When planning inclusive services ensure that all channels & touchpoints apply an inclusive lens.
 - **Designing systems that encompass the diversity "at the edges" will respond better to change and cost less in the long run.** Accommodation and accessibility gate-keeping are expensive, brittle and degrade quickly. 
-- **Invest in fixing the system rather than providing individual workarounds.** Personalization and choice is important, but creating complex work-arounds will always be less effective and more expensive. Investing upstream in making sure that technology has solid accessibility defaults will be more efficient and effective.
+- **You can get more effect by systematic changes then individual changes even often for the specific individual involved.
+- **Personalization and choice is important, but creating complex work-arounds will always be less effective and more expensive.** Investing upstream in making sure that technology has solid accessibility defaults will be more effective over time.
 - **Most developers/designers underestimate the complexity of digital accessibility.** Many teams assume that they already know how to make pages accessible. 
 - **Digital accessibility requires an ongoing commitment to education.** There is always new material being created to help practitioners learn how to be more inclusive. 
 - **There is no checklist that you can follow that will make sure your digital tools inclusive.** Checklists can be useful as reminders, but too often in accessibility they become limiting in how people approach a complex problem.
