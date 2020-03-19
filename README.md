@@ -16,7 +16,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Designing for the starburst of humanity, will produce better products and services than first working within the Pareto Principle and then trying to apply WCAG.** Design for the fringe.
 - **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
 - **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
-- **Often WAI-ARIA isn't properly applied.** WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
+- **No ARIA is better than bad ARIA.** Often WAI-ARIA isn't properly applied. WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
 - **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to evaluate if is accessible. 
 
 ## Software
