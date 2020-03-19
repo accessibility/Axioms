@@ -20,7 +20,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to evaluate if is accessible. 
 
 ## Software
-- **Public facing applications tend to get more scrutiny than internal facing applications and authoring tools.**  Not all disabilites are publicly known and and the abilities of our teams change over time. 
+- **Public facing applications tend to get more scrutiny than internal facing applications and authoring tools.**  Not all disabilities are publicly known and and the abilities of our teams change over time. 
 - **It is easier to improve the accessibility in a system with reasonable accessibility than to start with one with unknown number of accessibility issues.** 
 - **All CMS’s are broken into those elements which an editor can control, and those that are managed by the system which developers build**. This is similar to how a photo sits in a frame. 
 - **Critical mass matters** the more people who use the same system, the more likely that your organization will be able to benefit from someone else's work. Communities that share and encourage openness are best for finding solutions. 
