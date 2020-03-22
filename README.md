@@ -13,14 +13,14 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 ## Design
 - **User-centered design isn’t going to give you as inclusive a result as user-led design.** Design with - not for - people with disabilities. 
 - **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities about hit 15% of the population. Temporary and situational disabilities effect us all. Thinking about accessibility early helps reduce the higher costs of remediating older implementations.
-- **Designing for the starburst of humanity, will produce better products and services than first working within the Pareto Principle and then trying to apply WCAG.** Design for the fringe.
+- **Design for the extremes of humanity.** If you start with the starburst of humanity it will be easier to meet WCAG later. Products and services that are built for the 80/20 Rule (Pareto Principle) are harder to make inclusive afterwards. 
 - **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
 - **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
 - **No ARIA is better than bad ARIA.** Often WAI-ARIA isn't properly applied. WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
-- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to evaluate if is accessible. 
+- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to check if is accessible. 
 
 ## Software
-- **Public facing applications tend to get more scrutiny than internal facing applications and authoring tools.**  Not all disabilities are publicly known and and the abilities of our teams change over time. 
+- **Public facing tools get more review than internal facing sites and authoring tools.**  Not all disabilities are publicly known and and the abilities of our teams change over time. 
 - **It is easier to improve the accessibility in a system with reasonable accessibility than to start with one with unknown number of accessibility issues.** 
 - **All CMS’s are broken into those elements which an editor can control, and those that are managed by the system which developers build**. This is similar to how a photo sits in a frame. 
 - **Critical mass matters** the more people who use the same system, the more likely that your organization will be able to benefit from someone else's work. Communities that share and encourage openness are best for finding solutions. 
