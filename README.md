@@ -4,15 +4,15 @@ Accessibility Axioms (A11yAxioms): Basic truths about building an inclusive digi
 Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://twitter.com/hashtag/A11yAxiom). Lots of people have contributed in that thread and in other social media. Thanks! 
 
 ## Standards
-- **Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended.** Cognitive & learning disabilities are often neglected because it is hard to express as a universally understood success criterion. 
+- **Some things don’t appear in WCAG, not because they aren’t important, but because they cannot be concisely expressed and defended.** Cognitive and learning disabilities are often neglected from accessibility standards. It is  hard to express some needs as a universally understood success criterion. 
 - **WCAG is nothing more than a good start to the larger goal of an inclusive society.** Achieving WCAG 2.x AA conformance is good, but insufficient on its own. 
 - **WCAG isn’t perfect.** It is only as good as the people and the community behind it. Creating community guidelines is hard, but a necessary pre-condition to building a common solution. 
-- **If a site already conforms with one accessibility standard (say WCAG 2.0 A) it will be easier to make it conform to a higher or newer standard (say WCAG 2.1 AA) than if it didn't already.**
+- **A site with some accessibility enhancements will be easier to comply with newer guidelines.** A site that meets WCAG 2.0 A  should be easier to remediate to meet WCAG 2.1 AA than a comparable site that has had no accessibility considerations.
 - **New WCAG 2.x guidelines build on the previous ones. A site meeting WCAG 2.1 AA will also meet WCAG 2.0 AA.**
 
 ## Design
 - **User-centered design isn’t going to give you as inclusive a result as user-led design.** Design with - not for - people with disabilities. 
-- **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities hit 15% of the population, but temporary & situational disabilities effect us all. Thinking through accessibility challenges early also helps reduce the long-term challenges of going back and remediating older implementations.
+- **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities about hit 15% of the population. Temporary and situational disabilities effect us all. Thinking about accessibility early helps reduce the higher costs of remediating older implementations.
 - **Designing for the starburst of humanity, will produce better products and services than first working within the Pareto Principle and then trying to apply WCAG.** Design for the fringe.
 - **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
 - **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
