@@ -40,7 +40,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **You are more likely to get accessibility problems fixed in development or alpha/beta stages of software development.** Once a stable version of the software has been released, many core developers focus their energy on the next version of the software.
 
 ## Accessibility testing
-- **Automated testing is always going to be the most efficient way to find 100% of ~30% of accessibility issues.** 
+- **Automated testing is a great first step.** But can only find around a third of accessibility issues.
 - **A blended testing approach will provide the best results.** Plan for tests that can be automated along with your continuous integration (CI), tests that can be easily applied by themers & designers, tests that can be leveraged by editors, and tests to gather site wide errors. 
 - **There is no perfect accessibility tool, nor is any one tool going to always provide the best results.** A combination of automated tools should be used, some of the errors identified may be accessibility false positives. 
 - **The automated tests are getting better over time.**  More tools adopting the W3C's Accessibility Conformance Testing (ACT) Rules will provide greater consistency in the results different tools provide. 
