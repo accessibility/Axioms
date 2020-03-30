@@ -16,8 +16,6 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Design for the extremes of humanity.** If you start with the starburst of humanity it will be easier to meet WCAG later. Products and services that are built for the 80/20 Rule (Pareto Principle) are harder to make inclusive afterwards. 
 - **Uncomplicated interfaces are easier to make accessible, more usable, and will be simpler to maintain.**
 - **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
-- **No ARIA is better than bad ARIA.** Often WAI-ARIA isn't properly applied. WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
-- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to check if is accessible. 
 
 ## Software
 - **Public facing tools get more review than internal facing sites and authoring tools.**  Not all disabilities are publicly known and and the abilities of our teams change over time. 
@@ -30,6 +28,8 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Building with patterns that have previously been tested for accessibility will reduce costs for implementing WCAG.** 
 - **Make things open: it makes things better.** This is especially true in digital accessibility where everyone is trying to keep up with the internet. 
 - **The earlier you start incorporating digital accessibility into your digital tool, the less expensive it will be to become accessible (shift left).**
+- **No ARIA is better than bad ARIA.** Often WAI-ARIA isn't properly applied. WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
+- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to check if is accessible. 
 
 ## Software as process
 - **Software on the internet needs to be seen as a living system.** Need to move from leveraging periodic checklists to building an ongoing journey.
