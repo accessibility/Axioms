@@ -56,6 +56,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 ## Achievable Goals
 - **Digital tools will never be 100% accessible, just like it will never be 100% secure.**
 - **There is always more that can be done to be more inclusive,** how inclusive you need to be will depend on the users and your budget. Be focused on making your site more accessible today than it was yesterday. 
+- **The digital ecosystem is based on standards but is not standardized.** Despite the call to design with Web Standards, browsers and assistive technology all are working to build a competitive advantage. New standards are often slow to incorporate in user agents and bigger companies often include extras elements that better support their users. 
 
 ## Process (People)
 - **Good accessibility is a community effort.** In order to effectively address accessibility issues, we need experience outside of project teams. Collaborative approaches will achieve the best results in the long run.
