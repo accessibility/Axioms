@@ -72,4 +72,5 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Digital accessibility requires an ongoing commitment to education.** There is always new material being created to help practitioners learn how to be more inclusive. 
 - **There is no checklist that you can follow that will make sure your digital tools inclusive.** Checklists can be useful as reminders, but too often in accessibility they become limiting in how people approach a complex problem.
 
-
+**Also worth checking out:**
+[Truths about digital accessibility](https://ericwbailey.design/writing/truths-about-digital-accessibility.html) by [Eric Bailey](https://ericwbailey.design/)
