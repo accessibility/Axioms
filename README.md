@@ -14,10 +14,8 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **User-centered design isn’t going to give you as inclusive a result as user-led design.** Design with - not for - people with disabilities. 
 - **Without an inclusion lens, digital solutions are brittle.** Permanent disabilities about hit 15% of the population. Temporary and situational disabilities effect us all. Thinking about accessibility early helps reduce the higher costs of remediating older implementations.
 - **Design for the extremes of humanity.** If you start with the starburst of humanity it will be easier to meet WCAG later. Products and services that are built for the 80/20 Rule (Pareto Principle) are harder to make inclusive afterwards. 
-- **Uncomplicated interfaces are easier to make accessible and will be simpler to maintain.**
+- **Uncomplicated interfaces are easier to make accessible, more usable, and will be simpler to maintain.**
 - **Keep it simple.** Start with sound document structure. On the web that means semantic HTML and adding WAI-ARIA if the semantics can't be added through HTML. Use CSS to solve visual layout issues and JavaScript to enhance behavior.
-- **No ARIA is better than bad ARIA.** Often WAI-ARIA isn't properly applied. WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
-- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to check if is accessible. 
 
 ## Software
 - **Public facing tools get more review than internal facing sites and authoring tools.**  Not all disabilities are publicly known and and the abilities of our teams change over time. 
@@ -30,6 +28,8 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **Building with patterns that have previously been tested for accessibility will reduce costs for implementing WCAG.** 
 - **Make things open: it makes things better.** This is especially true in digital accessibility where everyone is trying to keep up with the internet. 
 - **The earlier you start incorporating digital accessibility into your digital tool, the less expensive it will be to become accessible (shift left).**
+- **No ARIA is better than bad ARIA.** Often WAI-ARIA isn't properly applied. WAI-ARIA is an important enhancement to HTML5, but it must be very carefully applied. 
+- **It is more difficult to assess WAI-ARIA semantics than it is HTML5.** Sites with lots of WAI-ARIA will take more time to check if is accessible. 
 
 ## Software as process
 - **Software on the internet needs to be seen as a living system.** Need to move from leveraging periodic checklists to building an ongoing journey.
@@ -40,7 +40,7 @@ Much of this discussion started on Twitter on the [A11yAxioms hashtag](https://t
 - **You are more likely to get accessibility problems fixed in development or alpha/beta stages of software development.** Once a stable version of the software has been released, many core developers focus their energy on the next version of the software.
 
 ## Accessibility testing
-- **Automated testing is always going to be the most efficient way to find 100% of ~30% of accessibility issues.** 
+- **Automated testing is a great first step.** But can only find around a third of accessibility issues.
 - **A blended testing approach will provide the best results.** Plan for tests that can be automated along with your continuous integration (CI), tests that can be easily applied by themers & designers, tests that can be leveraged by editors, and tests to gather site wide errors. 
 - **There is no perfect accessibility tool, nor is any one tool going to always provide the best results.** A combination of automated tools should be used, some of the errors identified may be accessibility false positives. 
 - **The automated tests are getting better over time.**  More tools adopting the W3C's Accessibility Conformance Testing (ACT) Rules will provide greater consistency in the results different tools provide. 
